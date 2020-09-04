@@ -1,1 +1,1 @@
-# This is a pritice of create repository!
+# This is a practice of create repository!
