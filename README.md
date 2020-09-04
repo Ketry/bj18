@@ -1,1 +1,1 @@
-# bj18
+# This is a pritice of create repository!
